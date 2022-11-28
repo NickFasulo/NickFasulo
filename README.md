@@ -7,7 +7,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-I'm a frontend engineer with deep interests in software development and building awesome UI. I've developed and maintained several different applications in collaborative environments, and I'm actively looking to contribute to another great team.
+I'm a software engineer with deep interests in software development and building awesome UI. I've developed and maintained several different applications in collaborative environments, and I'm actively looking to contribute to another great team.
 </p>
 <a href="https://www.linkedin.com/in/nicholas-fasulo">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
