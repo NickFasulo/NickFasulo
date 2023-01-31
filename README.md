@@ -9,6 +9,11 @@
 <p>
 Hi, I'm an ex-army medic turned software engineer with deep interests in web development and building awesome front end experiences. I've developed and maintained several different applications in collaborative environments, and I'm actively looking to contribute to another great team.
 </p>
+<a href="https://nick-fasulo-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Porfolio-Nick%20Fasulo-lightgrey" alt="Portfolio"/>
+</a>
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/nicholas-fasulo">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
