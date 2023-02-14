@@ -7,7 +7,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-Hi, I'm an ex-army medic turned software engineer with deep interests in web development and building awesome front end experiences. I've developed and maintained several different applications in collaborative environments, and I'm actively looking to contribute to another great team.
+Hi, I'm an ex-army medic turned software engineer with deep interests in web development and building awesome fullstack apps. I've developed and maintained several different applications in collaborative environments, and I'm actively looking to contribute to another team.
 </p>
 <a href="https://nick-fasulo-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Porfolio-Nick%20Fasulo-lightgrey" alt="Portfolio"/>
