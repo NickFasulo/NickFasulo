@@ -7,7 +7,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-Hi, I'm a software engineer with deep interests in web development and building awesome fullstack apps. I've developed and maintained several different applications in collaborative environments, and I'm actively looking to contribute to another great team.
+I'm an ex-army medic turned software engineer with deep interests in software development and building awesome frontend experiences. Throughout my involvement as part of a development team, I've paired my laidback personality and commitment for striving towards excellence to be someone my team can depend on. In addition to my tech skills, I balance the importance of teamwork with self motivation, as I demonstrated during my time in the military where I was making split second decisions independently. I'm excited to continue collaborating with other developers who are also committed to supporting one another.
 </p>
 <a href="https://nick-fasulo-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Porfolio-Nick%20Fasulo-lightgrey" alt="Portfolio"/>
