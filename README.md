@@ -7,7 +7,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-I'm an ex-army medic turned software engineer with deep interests in software development and building awesome frontend experiences. Throughout my involvement as part of a dev team, I've paired my laid back personality and commitment to being someone others can depend on. I try to balance the importance of teamwork with self motivation, like during my time in the military where I was making quick decisions independently and as part of a unit. I'm excited to continue collaborating with other developers who are also committed to supporting one another.
+I'm an ex-army medic turned software engineer with deep interests in software development and building awesome user experiences. Throughout my involvement as part of a dev team, I've paired my laid back personality and commitment to being someone others can depend on. I try to balance the importance of teamwork with self motivation, like during my time in the military where I was making quick decisions independently and as part of a unit. I'm excited to continue collaborating with other developers who are also committed to supporting one another.
 </p>
 <a href="https://nick-fasulo-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Porfolio-Nick%20Fasulo-lightgrey" alt="Portfolio"/>
