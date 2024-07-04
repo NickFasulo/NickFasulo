@@ -7,7 +7,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-I'm a software developer with a passion for building awesome user experiences. I look forward to collaborating with others who are also committed to supporting one another.
+I'm a Software Developer / Technical Support professional who's deeply passionate about crafting exceptional user and customer experiences. I thrive on collaborating with others who are also dedicated to mutual support and teamwork.
 </p>
 <a href="https://nick-fasulo-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Porfolio-Nick%20Fasulo-lightgrey" alt="Portfolio"/>
