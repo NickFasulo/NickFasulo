@@ -40,5 +40,7 @@ I'm a Software Developer / Technical Support professional who's deeply passionat
   <strong>NodeJS</strong>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40px" height="40px"/>&nbsp;
   <strong>Git</strong>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40px" height="40px"/>&nbsp;
+  <strong>Bash</strong>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40px" height="40px"/>&nbsp;
 </div>
