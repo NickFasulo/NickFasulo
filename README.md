@@ -7,7 +7,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-I'm a Software Developer / Technical Support professional who's deeply passionate about crafting exceptional user and customer experiences. I thrive on collaborating with others who are also dedicated to mutual support and teamwork.
+I'm a software developer / technical support professional who is passionate about crafting exceptional user and customer experiences. I thrive on collaborating with others who are also dedicated to mutual support and teamwork.
 </p>
 <a href="https://www.linkedin.com/in/nicholas-fasulo">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
