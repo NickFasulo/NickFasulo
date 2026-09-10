@@ -3,7 +3,7 @@
 </div>
 <h3>:man_technologist: About Me:</h3>
 <p>
-Hi there, I'm a QA Engineer who is passionate about crafting exceptional user and customer experiences. I thrive on collaborating with others who are also dedicated to mutual support and teamwork.
+Hi there, I'm a Frontend Engineer who is passionate about crafting exceptional user experiences. I thrive on collaborating with others who are also dedicated to mutual support and teamwork.
 </p>
 <a href="https://www.linkedin.com/in/nicholas-fasulo">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
