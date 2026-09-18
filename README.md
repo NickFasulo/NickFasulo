@@ -8,40 +8,74 @@ Hi there! I'm a Full Stack Engineer passionate about building clean, high-perfor
 </a>
 
 <h3>:hammer_and_wrench: Languages and Tools:</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40px" height="40px"/>
-  <strong>React</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40px" height="40px"/>
-  <strong>Next.js</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40px" height="40px"/>
-  <strong>TypeScript</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px" height="40px"/>
-  <strong>JavaScript</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40px" height="40px"/>
-  <strong>HTML</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40px" height="40px"/>
-  <strong>CSS</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40px" height="40px"/>
-  <strong>Material UI</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40px" height="40px"/>
-  <strong>Redux</strong>
-</div>
-<br/>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40px" height="40px"/>
-  <strong>NodeJS</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40px" height="40px"/>
-  <strong>Express</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40px" height="40px"/>
-  <strong>SQL</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40px" height="40px"/>
-  <strong>PostgreSQL</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40px" height="40px"/>
-  <strong>MongoDB</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40px" height="40px"/>
-  <strong>Playwright</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40px" height="40px"/>
-  <strong>Git</strong>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40px" height="40px"/>
-  <strong>Bash</strong>
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI"/><br/>
+      <sub><b>Material UI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/><br/>
+      <sub><b>NodeJS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" alt="Express" style="background-color: #ffffff; padding: 4px; border-radius: 6px;"/><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL"/><br/>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright"/><br/>
+      <sub><b>Playwright</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+  </tr>
+</table>
